@@ -1,0 +1,9 @@
+{
+  "name": "segops",
+  "description": "SegOps integration & workflow skills. Integration skills install the right SDK, wire keys/env, and emit a test event (Next.js, React, Node, iOS, Android, Shopify). Workflow skills drive the Admin SDK: build segments, track events, generate AI landing pages, audit AI visibility, and scaffold one-off admin scripts.",
+  "version": "0.1.0",
+  "author": {
+    "name": "SegOps"
+  },
+  "homepage": "https://github.com/segops/skills"
+}

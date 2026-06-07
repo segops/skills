@@ -1,0 +1,17 @@
+{
+  "name": "segops",
+  "owner": {
+    "name": "SegOps"
+  },
+  "description": "SegOps skills for Claude Code — integrate the SDK into your stack and drive Admin workflows.",
+  "plugins": [
+    {
+      "name": "segops",
+      "source": "./plugins/segops",
+      "description": "Integrate SegOps (Next.js, React, Node, iOS, Android, Shopify) and run Admin workflows: build segments, track events, generate AI landing pages, audit AI visibility, and script one-off admin tasks.",
+      "version": "0.1.0",
+      "homepage": "https://github.com/segops/skills",
+      "keywords": ["segops", "analytics", "segmentation", "integration", "ai-visibility"]
+    }
+  ]
+}
